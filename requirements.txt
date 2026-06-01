@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+geopandas
+duckdb
+libpysal
+esda
+spreg
+splot
+mgwr
+contextily
+statsmodels
+scikit-learn
